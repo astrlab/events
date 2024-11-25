@@ -1,4 +1,4 @@
-module github.com/astraflow-net/events
+module github.com/astrlab/events
 
 go 1.22
 
